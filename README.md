@@ -14,6 +14,7 @@ I build and document experiments in AI-assisted cloud engineering and security. 
 
 - [AI Engineering Factory](https://github.com/moruku36/ai-engineering-factory) — experimental governance and independent verification for AI coding agents.
 - [Local AI Sidekick](https://github.com/moruku36/local-ai-sidekick) — a bounded local coding worker powered by Ollama.
+- [Qwen Multimodal Colab](https://github.com/moruku36/qwen-multimodal-colab) — a Colab-based Qwen app for chat, image understanding and generation, speech input, and web search.
 - [PQC Crypto Inventory Lab](https://github.com/moruku36/pqc-crypto-inventory-lab) — an educational cryptography inventory and post-quantum migration lab.
 
 These repositories include experiments and learning projects as well as more developed work. Check each README for its current status and limits before reproducing infrastructure or running an AI workflow.
