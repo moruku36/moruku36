@@ -14,6 +14,7 @@ AIを活用したクラウド開発とセキュリティの検証・制作をし
 
 - [AI Engineering Factory](https://github.com/moruku36/ai-engineering-factory) — AIコーディングエージェントの作業範囲管理と独立検証を試す実験的な仕組み。
 - [Local AI Sidekick](https://github.com/moruku36/local-ai-sidekick) — Ollamaで動く、作業範囲を限定したローカルのコーディングワーカー。
+- [Qwen Multimodal Colab](https://github.com/moruku36/qwen-multimodal-colab) — Colab上でQwenを使い、対話、画像の理解・生成、音声入力、Web検索を試せるアプリ。
 - [PQC Crypto Inventory Lab](https://github.com/moruku36/pqc-crypto-inventory-lab) — 暗号利用状況の棚卸しと耐量子暗号への移行を学ぶためのラボ。
 
 完成度や運用状況はリポジトリごとに異なります。インフラの再構築やAIワークフローの実行前に、各READMEにある現在の状態と制約を確認してください。
