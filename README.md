@@ -2,7 +2,8 @@
 
 [English](README.md) | [日本語](README.ja.md)
 
-I build and document experiments in AI-assisted cloud engineering and security. My cloud validation work compares not only what AI can generate, but also what can be verified, recovered, and safely cleaned up.
+I build and document hands-on experiments across cloud, AI, and security.  
+My work focuses on validating real-world architectures, AI-assisted workflows, and security technologies through practical implementation and testing.
 
 ## Cloud validation — start here
 
