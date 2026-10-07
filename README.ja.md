@@ -15,7 +15,7 @@
 
 - [AI Engineering Factory](https://github.com/moruku36/ai-engineering-factory) — AIコーディングエージェントの成果物を確認する**MANUAL_ONLYの実験**。制限付きの成果物受領とJUnit報告の検証を実装しています。[検証記録](https://github.com/moruku36/ai-engineering-factory/blob/main/docs/defensive-evidence.ja.md)。
 - [Personal Security Auditor](https://github.com/moruku36/personal-security-auditor) — 自分の端末を守るための**防御的セキュリティ確認CLI**。秘密の値を集めず、OS設定・認証ファイル権限・Chrome拡張メタデータを確認します。検証範囲には制限があり、Google Password Checkupは未実装です。
-- [Qwen Multimodal Colab](https://github.com/moruku36/qwen-multimodal-colab) — Colab上でQwenを使い、対話、画像の理解・生成、音声入力、Web検索を試せるアプリ。
+- [Qwen Multimodal](https://github.com/moruku36/qwen-multimodal) — Gradio画面でQwenの対話、画像の理解・生成、音声入力、Web検索を試せるアプリ。Colab起動手順を備え、RunPod連携は検証中です。
 - [PQC Crypto Inventory Lab](https://github.com/moruku36/pqc-crypto-inventory-lab) — ソースや設定内の暗号利用を棚卸しする**教育用ラボ**。読み取り制限と出力の回帰テストを備えています。実稼働や耐量子安全性の保証ではありません。[検証記録](https://github.com/moruku36/pqc-crypto-inventory-lab/blob/main/docs/defensive-evidence.ja.md)。
 
 完成度や運用状況はリポジトリごとに異なります。インフラの再構築やAIワークフローの実行前に、各READMEにある現在の状態と制約を確認してください。
