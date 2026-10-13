@@ -23,4 +23,4 @@ I also publish and continuously update independent research, technical surveys, 
 
 These repositories include experiments and learning projects as well as more developed work. Check each README for its current status and limits before reproducing infrastructure or running an AI workflow.
 
-More writing: [Zenn](https://zenn.dev/kentaro36) · [DEV Community](https://dev.to/moruku36) · [LinkedIn](https://www.linkedin.com/in/kentaro-mori-4592a1169/).
+More writing: [Zenn](https://zenn.dev/kentaro36) · [DEV Community](https://dev.to/moruku36) · [note](https://note.com/moruku1887) · [Medium](https://medium.com/@kentaro.mori36).
