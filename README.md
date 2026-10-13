@@ -11,7 +11,7 @@ My work focuses on validating real-world architectures, AI-assisted workflows, a
 - [Level 3: Cloud Security & Architecture Validation](https://github.com/moruku36/cloud-validation-level3-architect) — architecture design decisions, cost and risk assessments, and phased validation records.
 - [AI Governance Control](https://github.com/moruku36/ai-governance-control) — a **MANUAL_ONLY experiment** for reviewing AI coding-agent outputs, with bounded artifact receipts and JUnit report checks. [Verification evidence](https://github.com/moruku36/ai-governance-control/blob/main/docs/defensive-evidence.md).
 - [Personal Security Auditor](https://github.com/moruku36/personal-security-auditor) — a local CLI for **defensive workstation security review**: selected OS settings, credential-file permissions, and Chrome extension metadata, without collecting secret values. Checks have documented limits; Google Password Checkup is not implemented.
-- [Qwen Multimodal](https://github.com/moruku36/qwen-multimodal) — a Gradio-based Qwen app for chat, image understanding and generation, speech input, and web search. Colab notebooks are available; RunPod integration is under validation.
+- [Open LLM Multimodal Lab](https://github.com/moruku36/open-llm-multimodal-lab) — experimental open-weight LLM project: Qwen multimodal workflows, verified RunPod/Open WebUI connectivity, and a planned GLM Original/Uncensored/Security-specific comparison.
 - [Multi-AI Workflow Architecture](https://github.com/moruku36/multi-ai-workflow) — a continuously updated guide to coordinating ChatGPT/Codex, Claude Code, Gemini/Antigravity, and Qwen across research, implementation, review, and AI-team workflows.
 
 ## Research & Reports
