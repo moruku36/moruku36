@@ -6,12 +6,22 @@ I build and document hands-on experiments across cloud, AI, and security.
 My work focuses on validating real-world architectures, AI-assisted workflows, and security technologies through practical implementation and testing.
 
 ## AI, Cloud, and Security Projects
-- [Level 2: Multi-cloud Security Validation](https://github.com/moruku36/cloud-validation-level2-multicloud) — Terraform-based AWS, Azure, and Google Cloud infrastructure validation, including CI/CD, monitoring, failure testing, and cleanup.
-- [Level 3: Cloud Security & Architecture Validation](https://github.com/moruku36/cloud-validation-level3-architect) — architecture design decisions, cost and risk assessments, and phased validation records.
-- [AI Governance Control](https://github.com/moruku36/ai-governance-control) — a **MANUAL_ONLY experiment** for reviewing AI coding-agent outputs, with bounded artifact receipts and JUnit report chec [Verification evidence](https://github.com/moruku36/ai-governance-control/blob/main/docs/defensive-evidence.md).
-- [Personal Security Auditor](https://github.com/moruku36/personal-security-auditor) — a local CLI for **defensive workstation security review**: selected OS settings, credential-file permissions, and Chrome extension metadata, without collecting secret values. Checks have documented limits; Google Password Checkup is not implemented.
-- [Open LLM Multimodal Lab](https://github.com/moruku36/open-llm-multimodal-lab) — experimental open-weight LLM project: Qwen multimodal workflows, verified RunPod/Open WebUI connectivity, and a planned GLM Original/Uncensored/Security-specific comparison.
-- [Multi-AI Workflow Architecture](https://github.com/moruku36/multi-ai-workflow) — a continuously updated guide to coordinating ChatGPT/Codex, Claude Code, Gemini/Antigravity, and Qwen across research, implementation, review, and AI-team workflows.
+
+### AI workflows
+
+- [Local AI Sidekick](https://github.com/moruku36/local-ai-sidekick) — a bounded local Ollama coding worker that returns changes for lead review. [A real local GPU end-to-end run](https://github.com/moruku36/local-ai-sidekick/pull/16) passed on synthetic repositories; production use is unverified.
+- [AI Governance Control](https://github.com/moruku36/ai-governance-control) — an experimental **MANUAL_ONLY** framework for checking task artifacts and recording human approvals. Its [status notification contract](https://github.com/moruku36/ai-governance-control/pull/49) does not send notifications; merge and deployment remain human decisions.
+- [Multi-cloud SRE Agent Research](https://github.com/moruku36/multicloud-sre-agent-survey-2026) — a source-linked survey and a [packaged, offline synthetic demo](https://github.com/moruku36/multicloud-sre-agent-survey-2026/pull/5) using fake AWS, Azure, and Google Cloud responses. Execution and recovery verification were not run; no live cloud remediation was tested.
+
+### Cloud validation
+
+- [Level 2: Multi-cloud Security Validation](https://github.com/moruku36/cloud-validation-level2-multicloud) and [Level 3: Cloud Security & Architecture Validation](https://github.com/moruku36/cloud-validation-level3-architect) — Terraform-based infrastructure checks in Level 2; architecture decisions and cost and risk records in Level 3. See each repository for its validation scope.
+- [OCI Validation Lab](https://github.com/moruku36/oci-validation-lab) — foundations study and offline models. A [limited OCI Console exercise](https://github.com/moruku36/oci-validation-lab/pull/2) created and deleted a temporary VCN and private subnet; Level 1 completion and live Terraform deployment remain unverified.
+
+### Defensive security
+
+- [Personal Security Auditor](https://github.com/moruku36/personal-security-auditor) — a local CLI for selected workstation checks without collecting secret values. Its [read-only Linux adapter](https://github.com/moruku36/personal-security-auditor/pull/9) has synthetic test coverage but no physical Linux device validation.
+- [Web Security Control Lab](https://github.com/moruku36/web-security-control-lab) — a localhost-only educational lab for observing, scanning, fixing, and rechecking six web controls in vulnerable and hardened modes. The hardened lab is not a production security guarantee.
 
 ## Research & Reports
 
