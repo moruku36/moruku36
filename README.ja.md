@@ -7,12 +7,21 @@
 
 ## AI・クラウド・セキュリティの制作物
 
-- [Level 2: マルチクラウドセキュリティ検証](https://github.com/moruku36/cloud-validation-level2-multicloud) — Terraformを使ってAWS、Azure、Google Cloudの構築、CI/CD、監視、障害テスト、削除まで検証。
-- [Level 3: クラウドセキュリティ・アーキテクチャ検証](https://github.com/moruku36/cloud-validation-level3-architect) — 設計判断、コスト・リスク評価、段階的な検証の記録。
-- [AI Governance Control](https://github.com/moruku36/ai-governance-control) — AIコーディングエージェントの成果物を確認する**MANUAL_ONLYの実験**。制限付きの成果物受領とJUnit報告の検証を実装しています。[検証記録](https://github.com/moruku36/ai-governance-control/blob/main/docs/defensive-evidence.ja.md)。
-- [Personal Security Auditor](https://github.com/moruku36/personal-security-auditor) — 自分の端末を守るための**防御的セキュリティ確認CLI**。秘密の値を集めず、OS設定・認証ファイル権限・Chrome拡張メタデータを確認します。検証範囲には制限があり、Google Password Checkupは未実装です。
-- [Open LLM Multimodal Lab](https://github.com/moruku36/open-llm-multimodal-lab) — QwenのマルチモーダルアプリとRunPod/Open WebUI接続検証を出発点に、GLMのOriginal・Uncensored・セキュリティ特化版まで比較するオープンウェイトLLM実験プロジェクト。
-- [Multi-AI Workflow Architecture](https://github.com/moruku36/multi-ai-workflow) — ChatGPT/Codex、Claude Code、Gemini/Antigravity、Qwenなど複数AIの役割分担、タスク振り分け、開発・レビュー連携を整理し、継続的に更新している運用ガイド。
+### AIワークフロー
+
+- [Local AI Sidekick](https://github.com/moruku36/local-ai-sidekick) — 作業範囲を限定したローカルOllamaコーディングワーカー。変更はリードAIのレビューに戻します。[実GPUを使ったE2E検証](https://github.com/moruku36/local-ai-sidekick/pull/16)は合成リポジトリで成功しました。本番運用は未検証です。
+- [AI Governance Control](https://github.com/moruku36/ai-governance-control) — タスク成果物の確認と人による承認を記録する**MANUAL_ONLYの実験**。[状態通知の内容契約](https://github.com/moruku36/ai-governance-control/pull/49)は送信機能を含まず、マージとデプロイは人が判断します。
+- [Multi-cloud SRE Agent Research](https://github.com/moruku36/multicloud-sre-agent-survey-2026) — 出典付きの調査と、AWS・Azure・Google Cloudの模擬応答を使う[パッケージ済みオフライン合成デモ](https://github.com/moruku36/multicloud-sre-agent-survey-2026/pull/5)。実行と復旧確認は未実施で、実クラウドの修復も検証していません。
+
+### クラウド検証
+
+- [Level 2: マルチクラウドセキュリティ検証](https://github.com/moruku36/cloud-validation-level2-multicloud)と[Level 3: クラウドセキュリティ・アーキテクチャ検証](https://github.com/moruku36/cloud-validation-level3-architect) — Level 2ではTerraformによる基盤検証、Level 3では設計判断とコスト・リスク評価を記録。検証範囲は各リポジトリで確認できます。
+- [OCI Validation Lab](https://github.com/moruku36/oci-validation-lab) — 基礎学習とオフラインモデル。[限定的なOCI Console演習](https://github.com/moruku36/oci-validation-lab/pull/2)では一時的なVCNとプライベートサブネットを作成・削除しました。Level 1の修了とTerraformの実環境適用は未検証です。
+
+### 防御的セキュリティ
+
+- [Personal Security Auditor](https://github.com/moruku36/personal-security-auditor) — 秘密の値を収集せず、端末の一部の設定を確認するローカルCLI。[読み取り専用のLinux対応](https://github.com/moruku36/personal-security-auditor/pull/9)には合成テストがありますが、Linux実機での検証は未実施です。
+- [Web Security Control Lab](https://github.com/moruku36/web-security-control-lab) — localhost限定の学習用ラボ。脆弱・対策済みの2モードで6つのWeb制御を観察、スキャン、修正、再確認します。対策済みモードは本番環境の安全性を保証しません。
 
 ## 調査・サーベイ・レポート
 
