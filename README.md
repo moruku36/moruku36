@@ -20,7 +20,7 @@ Cloud architect / IT engineer in Japan, validating real-world architectures and 
 
 ## Research & Reports
 - [Independent Tech Research 2026](https://github.com/moruku36/independent-tech-research-notes)
-More writing: [Zenn](https://zenn.dev/kentaro36) · [DEV Community](https://dev.to/moruku36) · [note](https://note.com/moruku1887).
+- More writing: [Zenn](https://zenn.dev/kentaro36) · [DEV Community](https://dev.to/moruku36) · [note](https://note.com/moruku1887).
 
 ## Building with an AI agent
 I do much of this work with Muse, my AI agent (I call it Fuwatchi). If you'd like to try it, my invite code is **EOA1TR**: https://muse.ai/join
