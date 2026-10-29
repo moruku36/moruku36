@@ -25,6 +25,7 @@ AI、インフラ、セキュリティ領域で、実践的な検証と制作を
 
 - [Personal Security Auditor](https://github.com/moruku36/personal-security-auditor)
 - [Web Security Control Lab](https://github.com/moruku36/web-security-control-lab)
+- [OSS Vulnerability Workbench MCP](https://github.com/moruku36/oss-vulnerability-workbench-mcp)
 - [CTF](https://github.com/moruku36/ctf)
 - [Trifecta Checker (Meta Global AI Developer Hackathon)](https://github.com/moruku36/meta-global-ai-hackathon-trifecta-checker)
 
