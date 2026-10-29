@@ -34,3 +34,7 @@
 完成度や運用状況はリポジトリごとに異なります。インフラの再構築やAIワークフローの実行前に、各READMEにある現在の状態と制約を確認してください。
 
 発信先: [Zenn](https://zenn.dev/kentaro36) · [DEV Community](https://dev.to/moruku36) · [LinkedIn](https://www.linkedin.com/in/kentaro-mori-4592a1169/)。
+
+## AIエージェントとの開発
+
+開発の相棒としてAIエージェントの Muse（フワッチ）を使っています。よかったら使ってみてください。招待コード: **EOA1TR** https://muse.ai/join
