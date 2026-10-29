@@ -6,15 +6,10 @@ Cloud architect / IT engineer in Japan, validating real-world architectures and 
 
 ## AI, Cloud/Infrastructure, and Security Projects
 
-### AI
 - [AI Governance Control](https://github.com/moruku36/ai-governance-control)
 - [Multi-AI Workflow](https://github.com/moruku36/multi-ai-workflow)
-
-### Cloud/Infrastructure
 - [OCI Validation Lab](https://github.com/moruku36/oci-validation-lab)
 - [Home AI Engineering Lab](https://github.com/moruku36/home-ai-engineering-lab)
-
-### Security
 - [CTF](https://github.com/moruku36/ctf)
 - [Trifecta Checker (Meta Global AI Developer Hackathon)](https://github.com/moruku36/meta-global-ai-hackathon-trifecta-checker)
 

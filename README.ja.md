@@ -7,18 +7,10 @@ AI、インフラ、セキュリティ領域で、実践的な検証と制作を
 
 ## AI・クラウド／インフラ・セキュリティの制作物
 
-### AI
-
 - [AI Governance Control](https://github.com/moruku36/ai-governance-control)
 - [Multi-AI Workflow](https://github.com/moruku36/multi-ai-workflow)
-
-### クラウド／インフラ
-
 - [OCI Validation Lab](https://github.com/moruku36/oci-validation-lab)
 - [Home AI Engineering Lab](https://github.com/moruku36/home-ai-engineering-lab)
-
-### セキュリティ
-
 - [CTF](https://github.com/moruku36/ctf)
 - [Trifecta Checker (Meta Global AI Developer Hackathon)](https://github.com/moruku36/meta-global-ai-hackathon-trifecta-checker)
 
