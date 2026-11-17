@@ -19,7 +19,7 @@ Cloud architect / IT engineer in Japan. I build hands-on experiments, test real-
 
 **[Independent Tech Research Notes](https://github.com/moruku36/independent-tech-research-notes)** — Reading notes and reports on AI, cloud, security, and software engineering.
 
-[Zenn](https://zenn.dev/kentaro36) · [DEV Community](https://dev.to/moruku36) · [note](https://note.com/moruku1887) · [LinkedIn](https://www.linkedin.com/in/kentaro-mori-4592a1169/)
+[Zenn](https://zenn.dev/kentaro36) · [DEV Community](https://dev.to/moruku36) · [note](https://note.com/moruku1887) · [YouTube](https://www.youtube.com/@morikentaro3753)
 
 ## Building with AI
 

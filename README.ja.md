@@ -19,7 +19,7 @@
 
 **[Independent Tech Research Notes](https://github.com/moruku36/independent-tech-research-notes)** — AI・クラウド・セキュリティ・ソフトウェア工学の読書ノートとレポート。
 
-[Zenn](https://zenn.dev/kentaro36) · [DEV Community](https://dev.to/moruku36) · [note](https://note.com/moruku1887) · [LinkedIn](https://www.linkedin.com/in/kentaro-mori-4592a1169/)
+[Zenn](https://zenn.dev/kentaro36) · [DEV Community](https://dev.to/moruku36) · [note](https://note.com/moruku1887) · [YouTube](https://www.youtube.com/@morikentaro3753)
 
 ## AIエージェントとの開発
 
